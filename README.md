@@ -156,4 +156,4 @@ ctx
 ```
 
 ## Acknowledgement
-This work was completed entirely using the Edinburgh International Data Facility (EIDF) and the Data-Driven Innovation Programme at the University of Edinburgh; and under project work supervised by [Dr. Henry Gouk](https://www.henrygouk.com/)
+This work was completed entirely using the Edinburgh International Data Facility (EIDF) and the Data-Driven Innovation Programme at the University of Edinburgh. 
